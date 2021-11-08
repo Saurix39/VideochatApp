@@ -1,0 +1,12 @@
+.content{
+    padding: 25px;
+}
+.avatar{
+    border-radius: 50%;
+    max-width: 50px;
+    width: 100%;
+}
+.user-name{
+    display: inline;
+    margin-left: 8px;
+}
